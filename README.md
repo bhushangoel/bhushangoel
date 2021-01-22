@@ -10,7 +10,7 @@
 <details>
   <summary>:zap: Download It</summary>
 
-[Bhushan's Resume](bhushan_resume.pdf)
+[Bhushan's Resume](https://github.com/bhushangoel/bhushangoel/raw/main/bhushan_resume.pdf)
 
 </details>
 
