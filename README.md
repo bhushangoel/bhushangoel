@@ -5,22 +5,13 @@
 
 ### I'm a Frontend Web Developer, Technical Content Writer. Apart from that I like Problem Solving.
 
-## Resume (Currently looking for change)
-
-<details>
-  <summary>:zap: Download It</summary>
-
-[Bhushan's Resume](https://github.com/bhushangoel/bhushangoel/raw/main/bhushan_resume.pdf)
-
-</details>
-
 ## More about me
 - I’m currently working at IHS Markit
 - Currently, working on: AngularJS, ReactJS
 - I’m looking to collaborate with other Frontend content creators
 - I love to create tools and content related to frontend development
 - Ask me about anything, I am happy to [help](https://www.linkedin.com/in/bhushangoel)
-- Check out my recent [blogs](https://frontend.bhushangoel.me/)
+- Check out my recent [blogs](http://bhushangoel.me/)
   and [linkedin posts](https://www.linkedin.com/feed/hashtag/?keywords=learnjsdaily)
 
 ## Languages and Tools:
