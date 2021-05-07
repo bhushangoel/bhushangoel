@@ -11,7 +11,7 @@
 - I’m looking to collaborate with other Frontend content creators
 - I love to create tools and content related to frontend development
 - Ask me about anything, I am happy to [help](https://www.linkedin.com/in/bhushangoel)
-- Check out my recent [blogs](http://bhushangoel.me/)
+- Check out my recent [blogs](https://crackingthefrontendinterview.com/), [interview questions](https://crackingthefrontendinterview.com/interview-questions/)
   and [linkedin posts](https://www.linkedin.com/feed/hashtag/?keywords=learnjsdaily)
 
 ## Languages and Tools:
